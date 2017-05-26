@@ -1,0 +1,16 @@
+C:\Users\Mihai\Documents\Visual Studio 2017\Projects\PR4\Lab4PR\bin\Debug\Lab4PR.exe.config
+C:\Users\Mihai\Documents\Visual Studio 2017\Projects\PR4\Lab4PR\bin\Debug\Lab4PR.exe
+C:\Users\Mihai\Documents\Visual Studio 2017\Projects\PR4\Lab4PR\bin\Debug\Lab4PR.pdb
+C:\Users\Mihai\Documents\Visual Studio 2017\Projects\PR4\Lab4PR\bin\Debug\Mail.dll
+C:\Users\Mihai\Documents\Visual Studio 2017\Projects\PR4\Lab4PR\bin\Debug\OpenPop.dll
+C:\Users\Mihai\Documents\Visual Studio 2017\Projects\PR4\Lab4PR\bin\Debug\Mail.xml
+C:\Users\Mihai\Documents\Visual Studio 2017\Projects\PR4\Lab4PR\obj\Debug\Lab4PR.csprojResolveAssemblyReference.cache
+C:\Users\Mihai\Documents\Visual Studio 2017\Projects\PR4\Lab4PR\obj\Debug\Lab4PR.MainForm.resources
+C:\Users\Mihai\Documents\Visual Studio 2017\Projects\PR4\Lab4PR\obj\Debug\Lab4PR.csproj.GenerateResource.Cache
+C:\Users\Mihai\Documents\Visual Studio 2017\Projects\PR4\Lab4PR\obj\Debug\Lab4PR.exe
+C:\Users\Mihai\Documents\Visual Studio 2017\Projects\PR4\Lab4PR\obj\Debug\Lab4PR.pdb
+C:\Users\Mihai\Documents\Visual Studio 2017\Projects\PR4\Lab4PR\bin\Debug\MetroFramework.Design.dll
+C:\Users\Mihai\Documents\Visual Studio 2017\Projects\PR4\Lab4PR\bin\Debug\MetroFramework.dll
+C:\Users\Mihai\Documents\Visual Studio 2017\Projects\PR4\Lab4PR\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Mihai\Documents\Visual Studio 2017\Projects\PR4\Lab4PR\obj\Debug\Lab4PR.fSendMail.resources
+C:\Users\Mihai\Documents\Visual Studio 2017\Projects\PR4\Lab4PR\obj\Debug\Lab4PR.Inbox.resources

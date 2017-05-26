@@ -1,0 +1,11 @@
+C:\Users\Mihai\Documents\Visual Studio 2017\Projects\PR3\HTTP_Request\bin\Debug\lab1HTTP.exe.config
+C:\Users\Mihai\Documents\Visual Studio 2017\Projects\PR3\HTTP_Request\bin\Debug\lab1HTTP.exe
+C:\Users\Mihai\Documents\Visual Studio 2017\Projects\PR3\HTTP_Request\bin\Debug\lab1HTTP.pdb
+C:\Users\Mihai\Documents\Visual Studio 2017\Projects\PR3\HTTP_Request\obj\Debug\lab1HTTP.Properties.Resources.resources
+C:\Users\Mihai\Documents\Visual Studio 2017\Projects\PR3\HTTP_Request\obj\Debug\GetPostHead.csproj.GenerateResource.Cache
+C:\Users\Mihai\Documents\Visual Studio 2017\Projects\PR3\HTTP_Request\obj\Debug\lab1HTTP.exe
+C:\Users\Mihai\Documents\Visual Studio 2017\Projects\PR3\HTTP_Request\obj\Debug\lab1HTTP.pdb
+C:\Users\Mihai\Documents\Visual Studio 2017\Projects\PR3\HTTP_Request\bin\Debug\MetroFramework.Design.dll
+C:\Users\Mihai\Documents\Visual Studio 2017\Projects\PR3\HTTP_Request\bin\Debug\MetroFramework.dll
+C:\Users\Mihai\Documents\Visual Studio 2017\Projects\PR3\HTTP_Request\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Mihai\Documents\Visual Studio 2017\Projects\PR3\HTTP_Request\obj\Debug\PR3.Form1.resources

@@ -1,0 +1,11 @@
+C:\Users\Mihai\Documents\Visual Studio 2017\Projects\PR3\linkChecker\bin\Debug\linkChecker.exe.config
+C:\Users\Mihai\Documents\Visual Studio 2017\Projects\PR3\linkChecker\bin\Debug\linkChecker.exe
+C:\Users\Mihai\Documents\Visual Studio 2017\Projects\PR3\linkChecker\bin\Debug\linkChecker.pdb
+C:\Users\Mihai\Documents\Visual Studio 2017\Projects\PR3\linkChecker\bin\Debug\MetroFramework.Design.dll
+C:\Users\Mihai\Documents\Visual Studio 2017\Projects\PR3\linkChecker\bin\Debug\MetroFramework.dll
+C:\Users\Mihai\Documents\Visual Studio 2017\Projects\PR3\linkChecker\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Mihai\Documents\Visual Studio 2017\Projects\PR3\linkChecker\obj\Debug\linkChecker.Form1.resources
+C:\Users\Mihai\Documents\Visual Studio 2017\Projects\PR3\linkChecker\obj\Debug\linkChecker.Properties.Resources.resources
+C:\Users\Mihai\Documents\Visual Studio 2017\Projects\PR3\linkChecker\obj\Debug\LinkCheck.csproj.GenerateResource.Cache
+C:\Users\Mihai\Documents\Visual Studio 2017\Projects\PR3\linkChecker\obj\Debug\linkChecker.exe
+C:\Users\Mihai\Documents\Visual Studio 2017\Projects\PR3\linkChecker\obj\Debug\linkChecker.pdb
